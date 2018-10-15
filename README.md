@@ -1,0 +1,2 @@
+# AppCenterBuildScriptTest
+kotlin android test
