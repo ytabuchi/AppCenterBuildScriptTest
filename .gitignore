@@ -1,6 +1,9 @@
 
 # Created by https://www.gitignore.io/api/android,intellij,androidstudio
 
+### C++ Library
+*.aar
+
 ### Android ###
 # Built application files
 *.apk
